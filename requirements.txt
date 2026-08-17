@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+pypdf
+python-dotenv
+openai
+httpx[socks]
